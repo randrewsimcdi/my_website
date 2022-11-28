@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rich Andrews</title>
-    <link>http://example.org/posts/</link>
+    <link>https://richandrews.codes/posts/</link>
     <description>Recent content in Posts on Rich Andrews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Nov 2022 19:24:39 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 19:24:39 -0500</lastBuildDate><atom:link href="https://richandrews.codes/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://example.org/posts/first_post/</link>
+      <link>https://richandrews.codes/posts/first_post/</link>
       <pubDate>Sun, 27 Nov 2022 19:24:39 -0500</pubDate>
       
-      <guid>http://example.org/posts/first_post/</guid>
+      <guid>https://richandrews.codes/posts/first_post/</guid>
       <description>I will be aiming to post monthly. Things I have learned and hopefully interesting topics.</description>
     </item>
     
