@@ -65,5 +65,4 @@ enableRobotsTXT = true
 
    socialIcons = [
       {name = "linkedin", url = "https://www.linkedin.com/in/richandrewsfl/"},
-     
     ]
